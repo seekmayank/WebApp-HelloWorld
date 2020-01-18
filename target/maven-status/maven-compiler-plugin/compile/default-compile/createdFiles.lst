@@ -1,0 +1,5 @@
+org/glassfish/jersey/examples/helloworld/webapp/App$1.class
+org/glassfish/jersey/examples/helloworld/webapp/DemoJsonAPI.class
+org/glassfish/jersey/examples/helloworld/webapp/App.class
+org/glassfish/jersey/examples/helloworld/webapp/MyApplication.class
+org/glassfish/jersey/examples/helloworld/webapp/HelloWorldResource.class
